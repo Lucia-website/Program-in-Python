@@ -1,1 +1,3 @@
+username=input("Please input your username.")
+Print(username)
 
